@@ -1,0 +1,13 @@
+.card{
+    height: 590px;
+} 
+.card{
+    margin-top:20px;
+    margin-right: auto;
+    border-color: blue;
+    /* background-color: black; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 100;
+    /* color: aliceblue; */
+}
